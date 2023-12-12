@@ -12,6 +12,6 @@ I am a first-year MSc student from the school of EECS, [KTH Royal Institute of T
 
 My research interests include bioinformation, signal processing, information theory and image processing.
 
-You can find my CV here: [Tiou Wang's CV](CV3.pdf).
+You can find my CV here: [Tiou Wang's CV](https://github.com/hwtomy/TiouWang/blob/47bfed97d07887b6a9b1d932b210b6f497f02bbb/_pages/CV3.pdf).
 
 [mail](mailto:tiou@kth.se) / [Linkedin](https://www.linkedin.com/in/tiou-wang-67223b2a3) 
